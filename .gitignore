@@ -1,0 +1,10 @@
+# Выход симуляции — результаты прогонов
+epid/sims/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Системное
+Thumbs.db
+.DS_Store
